@@ -1,0 +1,6 @@
+ID,Wind Turbine Direction,Rotational Speed(RPM),Blade Angle(degree),Energy Storage Capacity(kWh)
+WT1,south,11.3,8.6,112.12
+WT2,west,9.8,6.2,514.25
+WT3,east,12.7,9.4,615.13
+WT4,northeast,8.2,4.9,710.08
+WT5,south,10.5,7.1,129.45
